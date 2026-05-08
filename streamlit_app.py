@@ -10,7 +10,7 @@ from PIL import Image
 
 st.set_page_config(page_title="물벼룩 BPM 분석", layout="wide")
 
-st.title("🔬 물벼룩 심장박동(BPM) 분석기")
+st.title("🔬 물벼룩 심장박동(BPM) 분석기- 용인홍천고 융합과학동아리 반타")
 
 # 1. 파일 업로드
 uploaded_file = st.file_uploader("분석할 동영상 파일을 업로드하세요", type=["mp4", "avi", "mov", "mkv"])
