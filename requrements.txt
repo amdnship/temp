@@ -1,6 +1,0 @@
-streamlit
-opencv-python-headless
-numpy
-scipy
-matplotlib
-streamlit-cropper
